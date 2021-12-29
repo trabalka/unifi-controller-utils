@@ -1,0 +1,26 @@
+{
+  "name": "unifi-controller-utils",
+  "version": "1.0.0",
+  "description": "Management of Ubiquity UniFi Controller",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trabalka/unifi-controller-utils.git"
+  },
+  "keywords": [
+    "unifi",
+    "ubiquity",
+    "wifi",
+    "ap",
+    "node"
+  ],
+  "author": "Marek Trabalka",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/trabalka/unifi-controller-utils/issues"
+  },
+  "homepage": "https://github.com/trabalka/unifi-controller-utils#readme"
+}
